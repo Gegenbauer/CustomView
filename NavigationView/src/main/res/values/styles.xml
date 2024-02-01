@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultNavigationViewStyle">
+        <item name="progressBarWidth">@dimen/progress_bar_width</item>
+        <item name="progressBarRadius">@dimen/progress_bar_radius</item>
+        <item name="carIconSize">@dimen/car_icon_size</item>
+        <item name="centerPointRadius">@dimen/center_point_radius</item>
+        <item name="carIconBgRadius">@dimen/car_bg_radius</item>
+        <item name="arrowDistance">@dimen/arrow_distance</item>
+
+        <item name="carIcon">@drawable/ic_navi_car</item>
+        <item name="sector">@drawable/front_sector</item>
+        <item name="atFrontArrow">@drawable/ic_arrow</item>
+
+        <item name="carIconBoundsColor">@color/car_icon_bounds_color</item>
+        <item name="progressBarUsedColor">@color/progress_bar_used_color</item>
+        <item name="progressBarUnusedColor">@color/progress_bar_unused_color</item>
+    </style>
+</resources>

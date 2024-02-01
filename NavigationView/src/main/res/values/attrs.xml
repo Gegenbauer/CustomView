@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CarNavigationView">
+        <attr name="progressBarWidth" format="dimension" />
+        <attr name="progressBarRadius" format="dimension" />
+        <attr name="centerPointRadius" format="dimension" />
+        <attr name="arrowDistance" format="dimension" />
+        <attr name="carIconBgRadius" format="dimension" />
+        <attr name="carIconSize" format="dimension" />
+
+        <attr name="carIcon" format="reference" />
+        <attr name="atFrontArrow" format="reference" />
+        <attr name="sector" format="reference" />
+
+        <attr name="carIconBoundsColor" format="color" />
+        <attr name="progressBarUsedColor" format="color" />
+        <attr name="progressBarUnusedColor" format="color" />
+    </declare-styleable>
+
+    <attr name="carNavigationViewStyle" format="reference" />
+</resources>
